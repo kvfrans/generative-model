@@ -1,5 +1,4 @@
-# generative-model
-Brief Exploration of Generative Models
+# Brief Exploration of Generative Models
 
 To run this code, first install the requirements.
 ```
