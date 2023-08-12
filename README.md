@@ -4,7 +4,6 @@ Code for: https://kvfrans.com/a-brief-examination-of-generative-models/
 
 To run this code, first install the requirements.
 ```
-conda activate project-generative
 conda install -c anaconda jupyter seaborn
 conda install -c conda-forge matplotlib opencv jax flax
 conda install scipy
