@@ -1,5 +1,7 @@
 # Brief Examination of Generative Models
 
+Code for: https://kvfrans.com/a-brief-examination-of-generative-models/
+
 To run this code, first install the requirements.
 ```
 conda activate project-generative
